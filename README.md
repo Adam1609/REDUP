@@ -1,4 +1,5 @@
 # REDUP
-Level Up system base on Enchantment level (still developing)
+LevelUP system using API
 
-# Right now I need help with Enchantment Level (I can't find in src\pocketmine)
+## I need help, I have a great idea but I don't know how to describe it in code
+## Example: You have killed {entity_name}. Recieve {amount} experience!
