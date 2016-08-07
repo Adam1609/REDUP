@@ -27,5 +27,10 @@ class Main extends PluginBase{
   public function onDisable(){
     $this->getLogger()->info("REDUP đã dừng!");
   }
+  
+  protected $expLevel = 1
+  protected $exp = 0
+  
+  public function set
 }
 
